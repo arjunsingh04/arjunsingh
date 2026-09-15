@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Implementing AI/ML based solutions and implementing python services along with container orchestration on cloud.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects & AI/ML opensource projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and ML & NLP fundamentals.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Python, Node.js, Docker, AWS, and any general software development questions.
+🔭 **I’m currently working on:**  <br>Implementing AI/ML based solutions and implementing python services along with container orchestration on cloud. Automating process inside organization using multi-agent system orchestration.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects & AI/ML opensource projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and ML & NLP fundamentals.<br><br>💬 **Ask me about:**  <br>LLMs, Agentic AI systems, JavaScript, React, Python, Node.js, Docker, AWS, and any general software development questions.
 <br><br>⚡ **Fun fact:**  <br>I love learning new technology trends.
 
 
